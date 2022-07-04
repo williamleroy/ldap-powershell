@@ -36,7 +36,7 @@ $UtilisateurMotDePasse = $Utilisateur.MotDePasse
 $UtilisateurOU = $Utilisateur.OU
 $UtilisateurGroupe1 = $Utilisateur.Annees
 $UtilisateurGroupe2 = $Utilisateur.Ages
-$UtilisateurDescription = " classe: " + $Utilisateur.Classe + ",Numéro de chambre: " + $Utilisateur.Numerodechambre + ",couloirs: " + $Utilisateur.Couloirs
+$UtilisateurDescription = " classe: " + $Utilisateur.Classe + ",Numéro de chambre: " + $Utilisateur.Numerodechambre + ",couloirs: " + $Utilisateur.Couloirs
 #Initialisation des variables en fonction du fichier csv 
 if (Get-ADUser -Filter {SamAccountName -eq $UtilisateurLogin})
     {
