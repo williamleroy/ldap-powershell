@@ -131,15 +131,15 @@ cls
            }
 cls
 Start-Sleep -Seconds 1
-write-host "© Script AD DS for windows server 2022 By William Leroy" -ForegroundColor cyan
+write-host "© Script AD DS for windows server 2022 By William" -ForegroundColor cyan
 Start-Sleep -Seconds 1
 cls
-write-host "© Script AD DS for windows server 2022 By William Leroy" -ForegroundColor red
+write-host "© Script AD DS for windows server 2022 By William" -ForegroundColor red
 Start-Sleep -Seconds 1
 cls
-write-host "© Script AD DS for windows server 2022 By William Leroy" -ForegroundColor yellow
+write-host "© Script AD DS for windows server 2022 By William" -ForegroundColor yellow
 Start-Sleep -Seconds 1
 cls
-write-host "© Script AD DS for windows server 2022 By William Leroy" -ForegroundColor Green
+write-host "© Script AD DS for windows server 2022 By William" -ForegroundColor Green
 Start-Sleep -Seconds 3
             }
